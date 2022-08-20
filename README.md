@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wandia</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-<h3 align="center">Computer science in University of Eldoret</h3>
+<h2 align="center" style={{color: "teal}}>Computer science major</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandiadb&label=Profile%20views&color=0e75b6&style=flat" alt="wandiadb" /> </p>
