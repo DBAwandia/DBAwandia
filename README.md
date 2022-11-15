@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandiadb&label=Profile%20views&color=0e75b6&style=flat" alt="wandiadb" /> </p>
 
-- 🔭 I’m currently working on **MongoExpressReactNode projects**
+- 🔭 I’m currently working on 
+FullStackMobileBankingproject
 
 - 💬 Ask me about **MERN**
 
