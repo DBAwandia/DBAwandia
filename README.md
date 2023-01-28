@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandiadb&label=Profile%20views&color=0e75b6&style=flat" alt="wandiadb" /> </p>
 
 - 🔭 I’m currently working on 
-Krypto
+Krypto ( website for tracking crypto currency coins for free )
 
 - 💬 Ask me about **MERN**
 
