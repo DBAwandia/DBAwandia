@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on 
 **Real time messanger app** || **collaborations**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** || Problem solving
 
 - 📫 How to reach me **fluidbrakes@gmail.com**
 
