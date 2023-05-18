@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandiadb&label=Profile%20views&color=0e75b6&style=flat" alt="wandiadb" /> </p>
 
 - 🔭 I’m currently working on 
-**Phone market place , you can place an order and chat live with seller for negotiation**
+**Currency exchange app**
 
 - 💬 Ask me about **MERN** || Problem solving
 
